@@ -10,7 +10,8 @@ Some internet "RFC" specifications specify how to transport internet packages us
 - https://tools.ietf.org/html/rfc2549 (1 April 1999)
 - https://tools.ietf.org/html/rfc6214 (1 April 2011)
 
-Do the cooperating and simultaneously competing network carriers of today really significantly differ from their medieval colleagues in this game? Do some routing strategies perform better than others?
+Do the cooperating and simultaneously competing network carriers of today really significantly differ from their medieval colleagues in this game? Do some routing strategies perform better than others? (Hints from what modern internet routers do, see:  https://en.wikipedia.org/wiki/Routing)
+
 
 ## Data
 
