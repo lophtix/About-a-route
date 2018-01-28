@@ -1,1 +1,1 @@
-Map by Benjamin Sundvall
+Map by Benjamin Sundvall icons by Oliwer Siivonen
